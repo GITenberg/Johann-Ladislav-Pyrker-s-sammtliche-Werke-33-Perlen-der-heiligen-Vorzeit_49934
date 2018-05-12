@@ -1,10 +1,16 @@
 _repo: Johann-Ladislav-Pyrker-s-sammtliche-Werke-33-Perlen-der-heiligen-Vorzeit_49934
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49934-h/images/cover.jpg
 creator:
   author:
     agent_name: Pyrker, Johann Ladislav
     gutenberg_agent_id: '45621'
     url: http://www.gutenberg.org/2009/agents/45621
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49934#Johann-Ladislav-Pyrker-s-sammtliche-Werke-33-Perlen-der-heiligen-Vorzeit
 gutenberg_issued: '2015-09-10'
 gutenberg_type: Text
 identifiers:
