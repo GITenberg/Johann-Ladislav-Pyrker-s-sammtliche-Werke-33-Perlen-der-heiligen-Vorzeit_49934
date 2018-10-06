@@ -19,6 +19,8 @@ language: de
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Johann Ladislav Pyrker''s sämmtliche Werke (3/3)
 
   Perlen der heiligen Vorzeit'
